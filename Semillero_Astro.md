@@ -9,10 +9,13 @@
 
 ### Misión
 
-Promover que los estudiantes de la UECCI que participen en el semillero desarrollen habilidades de pensamiento científico e investigativo a través de la Astronomía y sus
-aplicaciones e interrelaciones con la Ingeniería.
+Los estudiantes y profesores que conforman el semillero buscan acercar las ciencias básicas a toda la comunidad universitaria, de tal manera que se genere una cultura científica y apreciación por el estudio del Universo.
 
-### Visión:
+### Visión
 
-Tener XX proyectos de grado de entre los programas de la UECCI que estén relacionados con la Astronomía-
+Promover que los estudiantes de la UECCI que participen en el semillero desarrollen habilidades de pensamiento científico e investigativo a través de la Astronomía y sus aplicaciones e interrelaciones con los programas de la Universidad.
+
+### Objetivos
+
+Generar XX proyectos de grado relacionados con la Astronomía desde cualquier programa de la UECCI
 
